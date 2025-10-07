@@ -104,7 +104,7 @@ export async function generateMetadata({ params }) {
     openGraph: {
       title: movieData.title,
       description: movieData.overview || `Detailed information for movie ${movieData.title}`,
-      url: `https://Fmovies-id.vercel.app/movie/${slug}`,
+      url: `https://Fmovies123.vercel.app/movie/${slug}`,
       siteName: 'Fmovies',
       images: [
         {
