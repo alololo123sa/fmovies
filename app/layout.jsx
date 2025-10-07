@@ -42,7 +42,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
 	  <head>
         {/* Tag verifikasi Google Search Console */}
-        <meta name="google-site-verification" content="7WZfh2aCtk9XQObziZk0EbqlvPuYo1qHULjMDlIUw-Y" />
+        <meta name="google-site-verification" content="_wmnflzTLSy6UWmKZyGkAqN-JuZRUuvxP1BgDbQU5yQ" />
         {/* Schema.org markup untuk Movie Database */}
         <script
           type="application/ld+json"
@@ -72,7 +72,7 @@ export default function RootLayout({ children }) {
             </main>
             <footer className="w-full max-w-7xl mx-auto px-4 py-8">
               {/* Tempatkan div Native Banner di sini, sebelum Footer */}
-              <div id="container-45aeef9ea1ee8d947538a9ff8ebecd66"></div>
+              <div id="container-d4de704600e3814b18939474fd18f80b"></div>
               <Footer />
             </footer>
           </div>
